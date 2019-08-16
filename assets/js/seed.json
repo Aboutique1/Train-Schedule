@@ -1,0 +1,15 @@
+{
+    "trains": [{
+      "trainName": "Amber's Train",
+      "destination": "The Galactic Center",
+      "firstTrain": "amber@gangsta.com",
+      "frequency":14
+      }, 
+      {
+        "trainName": "Gabe's Train",
+        "destination": "Centarus",
+        "firstTrain": "gabes@google.com",
+        "frequency":14
+      }
+     ]
+  }
